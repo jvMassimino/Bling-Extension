@@ -1,0 +1,25 @@
+{
+  "manifest_version": 3,
+  "name": "Calculadora de Peso Cubado",
+  "version": "1.0",
+  "description": "Calcula o peso Cubado da página de produto da Bling.",
+  "permissions": [
+    "activeTab",
+    "scripting"
+  ],
+  "background": {
+    "service_worker": "/scripts/background.js"
+  },
+  "action": {
+    "default_popup": "/popup/popup.html",
+    "default_icon": "/imagens/icone.png"
+  },
+  "web_accessible_resources": [
+    {
+      "resources": ["popup.html", "logo.png"],
+      "matches": ["<all_urls>"]
+    }
+  ],
+  "homepage_url": "https://github.com/jvmassimino",
+  "incognito": "split"
+}
