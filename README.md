@@ -43,5 +43,9 @@ Se as medidas não estiverem em centímetros, a extensão emitirá um alerta par
 
 Sinta-se à vontade para abrir um issue caso encontre bugs ou tenha sugestões de melhoria. Pull requests também são bem-vindos!
 
-Licença
+## Licença
 Este projeto está licenciado sob a [MIT License](https://github.com/jvMassimino/Bling-Extension/blob/main/LICENSE)
+
+## Print
+
+![image](https://github.com/user-attachments/assets/a97c4b38-641a-47e1-9d8f-233decdf1423)
