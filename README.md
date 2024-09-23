@@ -1,5 +1,7 @@
 # Bling Extension - Calculadora de Peso Cubado
 
+**ATENÇÃO:** Nenhum repositório, ferramenta ou proprietário do repositório é afiliado, patrocinado ou autorizado pelo **Bling** ou suas afiliadas.
+
 Esta extensão foi criada para automatizar o cálculo do peso cubado dos produtos cadastrados no [Bling](https://www.bling.com.br), facilitando uma tarefa repetitiva que antes era feita manualmente.
 
 O **peso cubado** é uma medida importante usada por transportadoras para calcular o custo de envio de um produto com base em suas dimensões físicas. Com esta extensão, você pode obter o peso cubado diretamente da página do produto no Bling, economizando tempo e minimizando erros.
